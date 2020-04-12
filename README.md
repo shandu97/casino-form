@@ -1,2 +1,5 @@
 # casino-form
-Created with CodeSandbox
+
+Multi Step Registration Form with Material UI
+
+<i>Designed by client's expectations</i>

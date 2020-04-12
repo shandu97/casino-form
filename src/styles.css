@@ -1,0 +1,32 @@
+body {
+  background: url("../images/monkey.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.success-text {
+  color: #00bcd4;
+}
+.bar {
+  margin-bottom: 40px;
+}
+.paper {
+  width: 30%;
+  margin: auto;
+}
+.password-confirm {
+  margin-bottom: 20px;
+}
+.errorMessage {
+  color: red;
+  font-size: 0.85em;
+  display: relative;
+}
+.clor {
+  color: #ff4081;
+}

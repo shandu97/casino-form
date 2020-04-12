@@ -1,0 +1,30 @@
+{
+  "Language": {
+    "1": "ENGLESKI",
+    "2": "HRVATSKI"
+  },
+  "Header": {
+    "1": "Unesite vase informacije",
+    "2": "Unesite vise informacija o vama",
+    "3": "Potvrdite stavke koje ste unijeli",
+    "4": "Uspjeli ste!"
+  },
+  "MainInfo": {
+    "1": "Ime",
+    "2": "Prezime"
+  },
+  "MoreInfo": {
+    "1": "Email Adresa",
+    "2": "Korisnicko Ime",
+    "3": "Lozinka",
+    "4": "Potvrdi Lozinku"
+  },
+  "Button": {
+    "1": "Nastavi",
+    "2": "Vrati se"
+  },
+  "Success": {
+    "1": "Hvala sto ste se registrovali!",
+    "2": "Uzivajte u igrama na srecu!"
+  }
+}

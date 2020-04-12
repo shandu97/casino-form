@@ -1,0 +1,30 @@
+{
+  "Language": {
+    "1": "ENGLISH",
+    "2": "CROATIAN"
+  },
+  "Header": {
+    "1": "Enter your personal info",
+    "2": "Enter more information about you",
+    "3": "Confirm Informations",
+    "4": "Success!"
+  },
+  "MainInfo": {
+    "1": "First Name",
+    "2": "Last Name"
+  },
+  "MoreInfo": {
+    "1": "Email",
+    "2": "Username",
+    "3": "Password",
+    "4": "Confirm Password"
+  },
+  "Button": {
+    "1": "Continue",
+    "2": "Back"
+  },
+  "Success": {
+    "1": "Thank you for your submission",
+    "2": "You will get an email with further instructions"
+  }
+}
